@@ -1,5 +1,6 @@
 # CSS Flexbox Master
-I used some of npm packages for development process and build process, and they are installed globally.
+* Live demo: https://trillo.netlify.app/
+* I used some of npm packages for development process and build process, and they are installed globally.
 * HINT: I had some issues when I tried to install them as dev dependencies, so I installed them globally and then no issues happened.
 * Getting started:
 1. npm i -g node-sass
