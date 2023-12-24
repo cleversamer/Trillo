@@ -1,0 +1,19 @@
+repo_name: cleversamerr/Trillo
+report_id: cb9d4b27796a3e44837dac01979e8049
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-24T12:42:38+00:00'
+requested_by: cleversamerr
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
